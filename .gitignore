@@ -8,3 +8,6 @@ stage
 Gemfile.lock
 .rbx
 doc
+.idea
+.rvmrc
+rack.iml
